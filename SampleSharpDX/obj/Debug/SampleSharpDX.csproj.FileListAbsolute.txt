@@ -1,0 +1,14 @@
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.csproj.AssemblyReference.cache
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.csproj.SuggestedBindingRedirects.cache
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.csproj.CoreCompileInputs.cache
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\sdx.png
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\RenderSpy.dll
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\RenderSpy.pdb
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.csproj.CopyComplete
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.exe
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.pdb
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\SampleSharpDX.exe.config
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\SampleSharpDX.exe
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\bin\Debug\SampleSharpDX.pdb
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.Properties.Resources.resources
+C:\Users\58424\Documents\Visual Studio 2022\Projects\RenderSpy\Source\src\SampleSharpDX\obj\Debug\SampleSharpDX.csproj.GenerateResource.cache
